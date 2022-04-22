@@ -18,8 +18,8 @@
 ## À propos de moi
 
 - 💎 J'apprends actuellement Assembleur et C++ 
-- 😈 Je taff sur un image token grabber
-- 📙 Mon site web si jamais ca vous interesse [Website](http://tthfr.myartsonline.com/)
+- 😈 Je taff sur des logiciels puissants !
+- 📙 Mon site web si jamais ca vous interesse [Website (bientôt)](http://tthfr.myartsonline.com/)
 
    <img src="https://discord.c99.nl/widget/theme-1/958991248562225192.png"></img>>
    
