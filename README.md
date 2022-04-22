@@ -74,11 +74,11 @@
 <summary> 💥 Travaille sur </summary>
 <br>
 <p align="center">
-<a href="https://github.com/TheTeamHackFR/CorruptThisPC">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=TheTeamHackFr&repo=CorruptThisPC&show_owner=true&theme=radical" />
+<a href="https://github.com/Th3Te4mH4ckFR/DiscordAIO">
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Th3Te4mH4ckFRrepo=DiscordAIO&show_owner=true&theme=radical" />
 </a>&ensp;
-<a href="https://github.com/TheTeamHackFR/TTHFR-MALWARE">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=TheTeamHackFr&repo=Arco-Multitool&show_owner=true&theme=radical" />
+<a href="https://github.com/Th3Te4mH4ckFR/">
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Th3Te4mH4ckFR&repo=Arco-Multitool&show_owner=true&theme=radical" />
 </a>
 </p>
 </details>
