@@ -19,7 +19,7 @@
 
 - 💎 J'apprends actuellement Assembleur et C++ 
 - 😈 Je taff sur des logiciels puissants !
-- 📙 Mon site web si jamais ca vous interesse [Website (bientôt)](http://tthfr.myartsonline.com/)
+- 📙 Mon site web si jamais ca vous interesse [Website](http://th3te4mh4ckfr.mywebcommunity.org/)
 
    <img src="https://discord.c99.nl/widget/theme-1/958991248562225192.png"></img>>
    
