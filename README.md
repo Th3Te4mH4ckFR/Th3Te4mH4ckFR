@@ -77,8 +77,8 @@
 <a href="https://github.com/Th3Te4mH4ckFR/DiscordAIO">
 <img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Th3Te4mH4ckFRrepo=DiscordAIO&show_owner=true&theme=radical" />
 </a>&ensp;
-<a href="https://github.com/Th3Te4mH4ckFR/">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Th3Te4mH4ckFR&repo=Arco-Multitool&show_owner=true&theme=radical" />
+<a href="https://github.com/Th3Te4mH4ckFR/SQLi-Njector">
+<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Th3Te4mH4ckFR&repo=SQLi-Njector&show_owner=true&theme=radical" />
 </a>
 </p>
 </details>
