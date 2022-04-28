@@ -61,27 +61,13 @@
 ### 🚀 Quick Stats
 
 <p align="center">
-<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=TheTeamHackFr&show_icons=true&line_height=21&theme=react" alt="TheTeamHackFr"/>
+<img width="450" align="center" src="https://github-readme-stats-defcon27.vercel.app/api?username=Th3te4mH4ckFR&show_icons=true&line_height=21&theme=react" alt="Th3Te4mH4ckFr"/>
 <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=TheTeamHackFr&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
+     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Th3Te4mH4ckFr&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" />
 </p>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheTeamHackFr)
-
-
-<details>
-<summary> 💥 Travaille sur </summary>
-<br>
-<p align="center">
-<a href="https://github.com/Th3Te4mH4ckFR/DiscordAIO">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Th3Te4mH4ckFRrepo=DiscordAIO&show_owner=true&theme=radical" />
-</a>&ensp;
-<a href="https://github.com/Th3Te4mH4ckFR/SQLi-Njector">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Th3Te4mH4ckFR&repo=SQLi-Njector&show_owner=true&theme=radical" />
-</a>
-</p>
-</details>
 
 
 
