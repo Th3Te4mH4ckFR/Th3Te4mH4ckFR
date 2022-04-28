@@ -17,7 +17,7 @@
 
 ## À propos de moi
 
-- 💎 J'apprends actuellement Assembleur et C++ 
+- 💎 J'aimerais créer un OS et mon propre langage de programmation !
 - 😈 Je taff sur des logiciels puissants !
 - 📙 Mon site web si jamais ca vous interesse [Website](http://th3te4mh4ckfr.mywebcommunity.org/)
 
